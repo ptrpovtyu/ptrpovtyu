@@ -1,1 +1,3 @@
+rootProject.name = 'ptrpov'
 include ':app'
+include 'greeting-library'
