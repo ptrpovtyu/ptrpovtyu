@@ -1,14 +1,11 @@
-# config/solano.yml
----
-test_pattern:
-  - features/*.feature
-  - features/api/*.feature
-  - spec/**/*_spec.rb
-  - test/**/*_test.rb
-postgresql:
-  version: '9.1'
-mysql:
-  version: '5.5'
-sqlite: false
-phantomjs:
-  version: '1.8.1'
+java:
+  java_version: java-7-openjdk
+  maven_version: '3.3.3'	# See our Java documentation for versions
+tests:
+  - mvn verify
+cache:
+  key_paths:     # Define the files Solano will use to determine when to rebuild your cache
+  - build.gradle
+  save_paths:    # Define the paths to save into the cache
+  - .gradle      # Relative to the repo
+  - HOME/.gradle
