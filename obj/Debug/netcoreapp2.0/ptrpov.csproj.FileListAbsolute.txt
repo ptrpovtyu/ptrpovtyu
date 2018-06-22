@@ -1,15 +1,4 @@
-C:\Users\HengPuthirea_y8knz2w\ptrpov\bin\Debug\netcoreapp2.0\ptrpov.deps.json
-C:\Users\HengPuthirea_y8knz2w\ptrpov\bin\Debug\netcoreapp2.0\ptrpov.runtimeconfig.json
-C:\Users\HengPuthirea_y8knz2w\ptrpov\bin\Debug\netcoreapp2.0\ptrpov.runtimeconfig.dev.json
-C:\Users\HengPuthirea_y8knz2w\ptrpov\bin\Debug\netcoreapp2.0\ptrpov.dll
-C:\Users\HengPuthirea_y8knz2w\ptrpov\bin\Debug\netcoreapp2.0\ptrpov.pdb
 C:\Users\HengPuthirea_y8knz2w\ptrpov\obj\Debug\netcoreapp2.0\ptrpov.csproj.CoreCompileInputs.cache
 C:\Users\HengPuthirea_y8knz2w\ptrpov\obj\Debug\netcoreapp2.0\ptrpov.AssemblyInfoInputs.cache
 C:\Users\HengPuthirea_y8knz2w\ptrpov\obj\Debug\netcoreapp2.0\ptrpov.AssemblyInfo.cs
-C:\Users\HengPuthirea_y8knz2w\ptrpov\obj\Debug\netcoreapp2.0\ptrpov.dll
-C:\Users\HengPuthirea_y8knz2w\ptrpov\obj\Debug\netcoreapp2.0\ptrpov.pdb
-C:\build_output\ptrpov.deps.json
-C:\build_output\ptrpov.runtimeconfig.json
-C:\build_output\ptrpov.runtimeconfig.dev.json
-C:\build_output\ptrpov.dll
-C:\build_output\ptrpov.pdb
+C:\Users\HengPuthirea_y8knz2w\ptrpov\obj\Debug\netcoreapp2.0\ptrpov.csprojAssemblyReference.cache
