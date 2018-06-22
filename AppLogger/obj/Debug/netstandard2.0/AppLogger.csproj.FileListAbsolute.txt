@@ -1,0 +1,8 @@
+C:\Users\HengPuthirea_y8knz2w\ptrpov\AppLogger\bin\Debug\netstandard2.0\AppLogger.deps.json
+C:\Users\HengPuthirea_y8knz2w\ptrpov\AppLogger\bin\Debug\netstandard2.0\AppLogger.dll
+C:\Users\HengPuthirea_y8knz2w\ptrpov\AppLogger\bin\Debug\netstandard2.0\AppLogger.pdb
+C:\Users\HengPuthirea_y8knz2w\ptrpov\AppLogger\obj\Debug\netstandard2.0\AppLogger.csproj.CoreCompileInputs.cache
+C:\Users\HengPuthirea_y8knz2w\ptrpov\AppLogger\obj\Debug\netstandard2.0\AppLogger.AssemblyInfoInputs.cache
+C:\Users\HengPuthirea_y8knz2w\ptrpov\AppLogger\obj\Debug\netstandard2.0\AppLogger.AssemblyInfo.cs
+C:\Users\HengPuthirea_y8knz2w\ptrpov\AppLogger\obj\Debug\netstandard2.0\AppLogger.dll
+C:\Users\HengPuthirea_y8knz2w\ptrpov\AppLogger\obj\Debug\netstandard2.0\AppLogger.pdb
