@@ -1,1 +1,38 @@
 
+Codecov
+v4.3.0Documentation
+About the Codecov yaml
+One file to rule them all...configuration that is.
+
+There are two primary locations for the Codecov Yaml: the Team Yaml and the Repository Yaml. Each of them play an important role in how to configure Codecov.
+
+Default yaml
+The default configuration for all projects in Codecov is demonstrated below. You may override any of these configurations in your own Team/Repository Yaml.
+
+YAML
+ codecov:
+  notify:
+    require_ci_to_pass: yes
+
+coverage:
+  precision: 2
+  round: down
+  range: "70...100"
+
+  status:
+    project: yes
+    patch: yes
+    changes: no
+
+parsers:
+  gcov:
+    branch_detection:
+      conditional: yes
+      loop: yes
+      method: no
+      macro: no
+
+comment:
+  layout: "header, diff"
+  behavior: default
+  require_changes: no
