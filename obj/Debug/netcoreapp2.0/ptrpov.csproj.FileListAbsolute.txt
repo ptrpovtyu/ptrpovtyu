@@ -1,7 +1,6 @@
 C:\Users\HengPuthirea_y8knz2w\ptrpov\obj\Debug\netcoreapp2.0\ptrpov.csproj.CoreCompileInputs.cache
 C:\Users\HengPuthirea_y8knz2w\ptrpov\obj\Debug\netcoreapp2.0\ptrpov.AssemblyInfoInputs.cache
 C:\Users\HengPuthirea_y8knz2w\ptrpov\obj\Debug\netcoreapp2.0\ptrpov.AssemblyInfo.cs
-C:\Users\HengPuthirea_y8knz2w\ptrpov\obj\Debug\netcoreapp2.0\ptrpov.csprojAssemblyReference.cache
 C:\Users\HengPuthirea_y8knz2w\ptrpov\bin\Debug\netcoreapp2.0\ptrpov.deps.json
 C:\Users\HengPuthirea_y8knz2w\ptrpov\bin\Debug\netcoreapp2.0\ptrpov.runtimeconfig.json
 C:\Users\HengPuthirea_y8knz2w\ptrpov\bin\Debug\netcoreapp2.0\ptrpov.runtimeconfig.dev.json
