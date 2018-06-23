@@ -8,27 +8,36 @@ namespace ptrpov
     {
         static void Main(string[] args)
         {
-            int a = 5;
-            int b = 3;
-            if (a + b > 10)
+            if (args.Length > 0)
             {
-                Console.WriteLine("The answer is greater than 10");
+                Console.WriteLine($"Hello {args[0]}!");
             }
             else
             {
-            Console.WriteLine("The answer is not greater than 10");
+                Console.WriteLine("Hello!");
             }
-            int c = 4;
-            if ((a + b + c > 10) && (a > b))
+
+            Console.WriteLine("Fibonacci Numbers 1-15:");
+
+            for (int i = 0; i < 15; i++)
             {
-                Console.WriteLine("The answer is greater than 10");
-                Console.WriteLine("And the first number is greater than the second");
+                Console.WriteLine($"{i + 1}: {FibonacciNumber(i)}");
             }
-            else
+        }
+        static int FibonacciNumber(int n)
+        {
+            int a = 0;
+            int b = 1;
+            int tmp;
+
+            for (int i = 0; i < n; i++)
             {
-                Console.WriteLine("The answer is not greater than 10");
-                Console.WriteLine("Or the first number is not greater than the second");
+                tmp = a;
+                a = b;
+                b += tmp;
             }
+
+            return a;
         }
     }
 }
