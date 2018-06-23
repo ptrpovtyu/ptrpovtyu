@@ -8,3 +8,4 @@ C:\Users\HengPuthirea_y8knz2w\ptrpov\bin\Debug\netcoreapp2.0\ptrpov.dll
 C:\Users\HengPuthirea_y8knz2w\ptrpov\bin\Debug\netcoreapp2.0\ptrpov.pdb
 C:\Users\HengPuthirea_y8knz2w\ptrpov\obj\Debug\netcoreapp2.0\ptrpov.dll
 C:\Users\HengPuthirea_y8knz2w\ptrpov\obj\Debug\netcoreapp2.0\ptrpov.pdb
+C:\Users\HengPuthirea_y8knz2w\ptrpov\obj\Debug\netcoreapp2.0\ptrpov.csprojAssemblyReference.cache
