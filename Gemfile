@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gem 'simplecov',  require: false, group: :test
-gem 'codacy-coverage', :require => false
+gem 'simplecov', '>= 0.16.1', require: false, group: :test
+gem 'codacy-coverage', '>= 1.1.8', :require => false
 gem 'coveralls', require: false
